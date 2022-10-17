@@ -8,6 +8,7 @@ Copyright (c) 2018
 1. Installation
 The PALM scripts use MATLAB (http://www.mathworks.com).
 The PALM-MATLAB code requires an Nvidia graphics card that supports CUDA version 3.0.
+
 2. How to run
 To run the code for test data:
 1). Set the current folder in MATLAB to be PALM code.
