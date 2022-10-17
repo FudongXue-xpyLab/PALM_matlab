@@ -3,7 +3,6 @@ addpath([functiondir '/common'])
 addpath([functiondir '/batch process'])
 addpath([functiondir '/detection'])
 addpath([functiondir '/main'])
-addpath([functiondir '/other'])
 addpath([functiondir '/PALM'])
 addpath([functiondir '/toolbox'])
 str = computer;
